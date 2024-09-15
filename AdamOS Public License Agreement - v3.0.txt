@@ -1,0 +1,144 @@
+# AdamOS Public License Agreement
+## Version 3.0
+
+Copyright © 2024 AdamAGI Inc. All Rights Reserved.
+
+IMPORTANT NOTICE: PLEASE READ THIS LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE INSTALLING, COPYING, OR USING ADAMOS. THIS AGREEMENT IS A LEGALLY BINDING CONTRACT BETWEEN YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) AND ADAMAGI INC. BY INSTALLING, COPYING, OR USING ADAMOS, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL, COPY, OR USE ADAMOS.
+
+## 1. Definitions
+
+1.1 "AdamOS" refers to the AdamAGI Operating System, including all of its components, features, updates, and associated documentation, whether in object code or source code form.
+
+1.2 "AdamAGI Inc." means the Delaware corporation that developed and owns AdamOS.
+
+1.3 "Authorized Device" means a computing device owned or controlled by you that meets the system requirements of AdamOS.
+
+1.4 "Confidential Information" includes, but is not limited to, the structure, organization, source code, algorithms, and internal workings of AdamOS.
+
+1.5 "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, and other proprietary rights in or relating to AdamOS.
+
+1.6 "License Key" means any technological measure used to enable, activate, or control the use of AdamOS.
+
+1.7 "Neural Processing Unit" or "NPU" refers to specialized hardware components within Authorized Devices designed to accelerate AI and machine learning tasks.
+
+1.8 "You" or "Your" refers to the individual or entity licensing AdamOS under this Agreement.
+
+## 2. Grant of License
+
+2.1 License Grant: Subject to the terms and conditions of this Agreement, AdamAGI Inc. grants you a limited, non-exclusive, non-transferable, revocable license to install and use AdamOS on Authorized Devices solely for your personal or internal business purposes.
+
+2.2 Restrictions: You may not:
+   a) Modify, adapt, translate, reverse engineer, decompile, disassemble, or attempt to derive the source code of AdamOS, except to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+   b) Create derivative works based on AdamOS;
+   c) Remove, obscure, or alter any proprietary notices or labels on AdamOS;
+   d) Use AdamOS for any illegal purpose or in violation of any local, state, national, or international law;
+   e) Transfer, sublicense, lease, lend, rent, or otherwise distribute AdamOS to any third party;
+   f) Use AdamOS to develop any product, service, or technology that competes with AdamOS or any other AdamAGI Inc. product or service;
+   g) Attempt to circumvent or disable the License Key or any other technological measure that controls access to AdamOS;
+   h) Use AdamOS in any manner that could damage, disable, overburden, or impair AdamAGI Inc.'s systems or networks, or interfere with any other party's use of AdamOS;
+   i) Publish or disclose to third parties any evaluation of AdamOS without AdamAGI Inc.'s prior written consent.
+
+## 3. Intellectual Property and Ownership
+
+3.1 Ownership: AdamOS, including all Intellectual Property Rights therein, is and shall remain the exclusive property of AdamAGI Inc. and its licensors. This Agreement does not grant you any ownership interest in AdamOS but only a limited right of use revocable in accordance with the terms of this Agreement.
+
+3.2 Feedback: Any feedback, suggestions, ideas, or recommendations you provide regarding AdamOS ("Feedback") shall be deemed assigned to AdamAGI Inc., and you agree that AdamAGI Inc. shall have a royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use, modify, or incorporate such Feedback into its products and services.
+
+3.3 Reservation of Rights: All rights not expressly granted to you in this Agreement are reserved by AdamAGI Inc.
+
+## 4. Confidentiality
+
+4.1 You acknowledge that AdamOS contains Confidential Information of AdamAGI Inc. You agree to hold such Confidential Information in strict confidence and not to disclose it to any third party or use it for any purpose other than as expressly permitted under this Agreement.
+
+4.2 Your obligations of confidentiality shall survive the termination of this Agreement and continue until such Confidential Information becomes publicly known through no fault of your own.
+
+## 5. Privacy and Data Collection
+
+5.1 Data Collection: Use of AdamOS may result in the automatic collection and transmission of certain data to AdamAGI Inc., including but not limited to:
+   a) Technical information about your Authorized Device;
+   b) Usage statistics and performance metrics;
+   c) Error reports and crash logs;
+   d) Information processed by Neural Processing Units for system optimization and security purposes.
+
+5.2 Privacy Policy: The collection, use, and disclosure of information obtained through your use of AdamOS is governed by AdamAGI Inc.'s Privacy Policy, which is incorporated into this Agreement by reference.
+
+5.3 Consent: By using AdamOS, you consent to the collection, use, and processing of data as described in this Agreement and the Privacy Policy, including the use of advanced machine learning techniques to analyze usage patterns and system performance.
+
+## 6. Neural Processing Unit Integration
+
+6.1 AdamOS is designed to utilize Neural Processing Units present in Authorized Devices. You acknowledge that the functionality and performance of AdamOS may be optimized or enhanced through NPU integration.
+
+6.2 You agree not to interfere with, disable, or circumvent any NPU integration features of AdamOS.
+
+## 7. Updates and Connectivity
+
+7.1 Automatic Updates: AdamOS may automatically download and install updates from time to time. These updates may be necessary for the continued functionality, security, or performance of AdamOS. You agree to receive such updates as part of your use of AdamOS.
+
+7.2 Connectivity Requirements: AdamOS requires periodic connectivity to AdamAGI Inc. servers for license validation, security updates, and system integrity checks. Failure to maintain such connectivity may result in reduced functionality or deactivation of AdamOS.
+
+7.3 Feature Changes: AdamAGI Inc. reserves the right to add, modify, or remove features of AdamOS at any time and for any reason.
+
+## 8. Term and Termination
+
+8.1 Term: This Agreement is effective upon your acceptance and shall continue until terminated as provided herein.
+
+8.2 Termination by You: You may terminate this Agreement at any time by ceasing all use of AdamOS and destroying all copies in your possession or control.
+
+8.3 Termination by AdamAGI Inc.: AdamAGI Inc. may terminate this Agreement at any time for any reason or no reason, with or without notice. Additionally, this Agreement will terminate automatically if you fail to comply with any term or condition of this Agreement.
+
+8.4 Effect of Termination: Upon termination of this Agreement for any reason:
+   a) Your license rights will terminate and you must immediately cease all use of AdamOS;
+   b) You must destroy all copies of AdamOS in your possession or control;
+   c) You must remove AdamOS from all Authorized Devices;
+   d) All provisions of this Agreement which by their nature should survive termination shall survive, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+## 9. Warranty Disclaimer
+
+ADAMOS IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ADAMAGI INC. DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. ADAMAGI INC. DOES NOT WARRANT THAT ADAMOS WILL MEET YOUR REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, ACHIEVE ANY INTENDED RESULT, BE COMPATIBLE OR WORK WITH ANY SOFTWARE, SYSTEM, OR OTHER SERVICES, OR BE SECURE, ACCURATE, COMPLETE, FREE OF HARMFUL CODE, OR ERROR-FREE.
+
+## 10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ADAMAGI INC. OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE ADAMOS, EVEN IF ADAMAGI INC. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, ADAMAGI INC.'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR ADAMOS.
+
+## 11. Indemnification
+
+You agree to indemnify, defend, and hold harmless AdamAGI Inc., its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, and expenses (including attorney's fees) arising from: (a) your use of AdamOS; (b) your violation of any term of this Agreement; (c) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (d) any claim that your use of AdamOS caused damage to a third party.
+
+## 12. Export Compliance
+
+You may not use or otherwise export or re-export AdamOS except as authorized by United States law and the laws of the jurisdiction in which AdamOS was obtained. In particular, but without limitation, AdamOS may not be exported or re-exported (a) into any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person's List or Entity List.
+
+## 13. U.S. Government End Users
+
+AdamOS and related documentation are "Commercial Items", as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
+
+## 14. Governing Law and Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any principles of conflicts of law. You agree that any legal action or proceeding between AdamAGI Inc. and you for any purpose concerning this Agreement or the parties' obligations hereunder shall be brought exclusively in a federal or state court of competent jurisdiction sitting in Delaware. Any cause of action or claim you may have with respect to AdamOS must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred.
+
+## 15. Miscellaneous
+
+15.1 Entire Agreement: This Agreement constitutes the entire agreement between you and AdamAGI Inc. regarding AdamOS and supersedes all prior agreements and understandings, whether written or oral, relating to AdamOS.
+
+15.2 Amendments: AdamAGI Inc. reserves the right to modify this Agreement at any time by providing notice within AdamOS or by publishing the modified Agreement on its website. Your continued use of AdamOS after such modifications will constitute your acceptance of the modified Agreement.
+
+15.3 Waiver: The failure of AdamAGI Inc. to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+15.4 Severability: If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Agreement remain in full force and effect.
+
+15.5 Assignment: You may not assign or transfer this Agreement or any rights or obligations hereunder, without the prior written consent of AdamAGI Inc. AdamAGI Inc. may freely assign this Agreement.
+
+15.6 No Third-Party Beneficiaries: This Agreement is not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party.
+
+15.7 Force Majeure: AdamAGI Inc. will not be responsible for any failure to perform its obligations under this Agreement due to circumstances beyond its reasonable control.
+
+15.8 Contact Information: If you have any questions about this Agreement, please contact AdamAGI Inc. at:
+
+AdamAGI Inc.
+1111B S Governors Ave STE 3866 Dover, DE, 19904 US
+Email: legal@adamagi.com
+Website: www.adamagi.com
+
+BY INSTALLING, COPYING, OR OTHERWISE USING ADAMOS, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Last updated: 9/15/2024
